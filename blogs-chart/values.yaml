@@ -6,7 +6,7 @@ image:
   repository: anandaacr.azurecr.io/blog-service
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "v1.0.0"
+  tag: "ab29ced120de6caa8a44c382bc07abd4ad01f2d6"
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
